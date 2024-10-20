@@ -1,6 +1,7 @@
 # Ecoarium - Smart Recycling System
 Smart Recycling System은 카페에서 흔히 사용되는 일회용 플라스틱 컵의 재활용률을 높이기 위한 시스템 설계 프로젝트입니다.<br>
-일회용 컵 수거 장치, 머신러닝 분류기, AP서버, DB서버, 모바일 APP, 웹, 네트워크 및 보안을 포함합니다.
+일회용 컵 수거 장치, 머신러닝 분류기, AP서버, DB서버, 모바일 APP, 웹, 네트워크 및 보안을 포함합니다.<br>
+https://www.youtube.com/watch?v=He8l_3qvlWA
 
 # Member
 <p align="center">
